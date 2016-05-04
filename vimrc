@@ -1,7 +1,6 @@
 execute pathogen#infect()
 syntax on
 filetype plugin indent on
-let g:ycm_server_python_interpreter = "/usr/bin/python3"
 :setlocal spell spelllang=en_us
 set background=dark
 set guifont=DejaVu\ Sans\ Mono\ 12
